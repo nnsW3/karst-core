@@ -2,7 +2,7 @@
 
 ## Preamble
 
-The KARST Community was created to foster an open, innovative and inclusive community around open source development.
+The KARST Community was created to foster an open, innovative and inclusive community around open-source development.
 To clarify expected behaviour in our community we have adopted the Contributor Covenant. This code of conduct
 has been adopted by many other open source communities and we feel it expresses our values well.
 
@@ -21,7 +21,7 @@ diverse, inclusive, and healthy community.
 ## Our Standards
 
 Examples of behavior that contributes to a positive environment for our
-community include:
+community includes:
 
 - Demonstrating empathy and kindness toward other people
 - Being respectful of differing opinions, viewpoints, and experiences
@@ -40,7 +40,7 @@ Examples of unacceptable behavior include:
 - Public or private harassment
 - Publishing others' private information, such as a physical or email
   address, without their explicit permission
-- Other conduct which could reasonably be considered inappropriate in a
+- Other conduct that could reasonably be considered inappropriate in a
   professional setting
 
 ## Enforcement Responsibilities
@@ -70,7 +70,7 @@ project. Members and maintainers must adhere to some rules regarding to pull req
 reviews and creation of issues and pull requests:
 
 - During code reviews do not comment on coding standards and styles -focus on algorithmical,
-  structural or naming issues-, help to solve problem.
+  structural or naming issues-, help to solve problems.
 - When creating an issue or a pull request, follow the templates provided by the repository and
   fill in the indicated items correctly. If you do not want to use a template, open a blank issue/PR
   and make sure that in its description is not missing any information requested by the templates. Help
